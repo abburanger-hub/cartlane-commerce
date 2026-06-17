@@ -1,0 +1,8 @@
+[
+{
+"ticket":"SUP-447",
+"issue":"payment completed but order missing",
+"module":"orders.py",
+"resolution":"retry order sync"
+}
+]
